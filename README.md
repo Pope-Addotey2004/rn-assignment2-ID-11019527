@@ -1,1 +1,2 @@
 # rn-assignment2-ID-11019527
+In this assignment, we are to create an app in React native. And we were asked to change the inner text of the app and we should be able to change the background color to any color. And we were asked to commit each changes. 

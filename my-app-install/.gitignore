@@ -2,6 +2,10 @@
 
 # dependencies
 node_modules/
+android/
+ios/
+.gitignore/
+.gitattributes
 
 # Expo
 .expo/
